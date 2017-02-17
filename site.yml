@@ -1,0 +1,20 @@
+# encoding: utf-8
+# vim: ft=ruby expandtab shiftwidth=2 tabstop=2
+
+hostname: example.dev
+ip: 192.168.55.123
+version: latest
+lang: en_US
+db_host: 192.168.55.123
+theme: ''
+
+theme_unit_test: false
+theme_unit_test_uri: https://raw.githubusercontent.com/WPTRT/theme-unit-test/master/themeunittestdata.wordpress.xml
+
+wp_i18n_tools: false
+mailcatcher: false
+plugins: []
+wp_cli_packages: []
+npms: []
+composers: []
+ruby_gems: []
